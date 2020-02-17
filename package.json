@@ -1,0 +1,22 @@
+{
+  "name": "nodejsboilerplate",
+  "version": "1.0.0",
+  "description": "boiler plate for nodejs",
+  "main": "app.js",
+  "scripts": {
+    "test": "node app.js"
+  },
+  "keywords": [
+    "boiler",
+    "plate"
+  ],
+  "author": "rupesh pawar",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^0.1.0",
+    "compression": "^1.7.4",
+    "express": "^4.17.1",
+    "helmet": "^3.21.2",
+    "mongoose": "^5.9.1"
+  }
+}
