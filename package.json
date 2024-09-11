@@ -13,7 +13,7 @@
   "author": "rupesh pawar",
   "license": "ISC",
   "dependencies": {
-    "body-parser": "^0.1.0",
+    "body-parser": "^1.20.3",
     "compression": "^1.7.4",
     "express": "^4.17.1",
     "helmet": "^3.21.2",
